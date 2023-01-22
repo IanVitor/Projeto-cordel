@@ -1,6 +1,11 @@
 # Projeto-Cordel
- 
+ Site estático que apresenta a história da criação do Android.<br>
+
  <img src="/imagens/Projeto-cordel-img.jpg">
+  
+<p>
+  Projeto construido durante o curso de <a href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/">HTML e CSS</a> do Curso em Vídeo.
+</p><br>
  
 <dl>
  <dt>Tecnologias:</dt><br>
